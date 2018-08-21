@@ -28,7 +28,7 @@ export default {
   },
   data () {
     return {
-      now: Math.trunc((new Date()).getTime() / 1000),
+      now: moment(),
       date: moment(this.propDate)
     }
   },
