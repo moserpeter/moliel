@@ -3,7 +3,7 @@
     <overlay opacity="0.8">
 
     </overlay>
-    <countdown propDate="August 31, 2018"></countdown>
+    <countdown propDate="September 31, 2018"></countdown>
   </div>
 </template>
 
